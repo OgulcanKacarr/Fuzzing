@@ -19,6 +19,7 @@ optional arguments:
 
 ```
 <br>
+## Usage
 
 ```
 python3 fuzzing.py -u http://192.168.1.34 -w /usr/share/dirb/wordlists/common.txt -o links
